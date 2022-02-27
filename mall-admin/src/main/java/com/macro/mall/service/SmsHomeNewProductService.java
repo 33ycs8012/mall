@@ -1,5 +1,6 @@
 package com.macro.mall.service;
 
+import com.macro.mall.model.SmsHomeNewProduct;
 import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;

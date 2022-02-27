@@ -2,6 +2,7 @@ package com.macro.mall.service;
 
 import com.macro.mall.dto.PmsProductAttributeParam;
 import com.macro.mall.dto.ProductAttrInfo;
+import com.macro.mall.model.PmsProductAttribute;
 import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;

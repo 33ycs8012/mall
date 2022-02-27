@@ -1,5 +1,9 @@
 package com.macro.mall.portal.domain;
 
+import com.macro.mall.model.PmsProduct;
+import com.macro.mall.model.PmsProductAttribute;
+import com.macro.mall.model.PmsSkuStock;
+
 import java.util.List;
 
 /**

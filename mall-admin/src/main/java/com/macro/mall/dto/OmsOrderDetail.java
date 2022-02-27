@@ -1,5 +1,8 @@
 package com.macro.mall.dto;
 
+import com.macro.mall.model.OmsOrder;
+import com.macro.mall.model.OmsOrderItem;
+import com.macro.mall.model.OmsOrderOperateHistory;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Getter;
 import lombok.Setter;

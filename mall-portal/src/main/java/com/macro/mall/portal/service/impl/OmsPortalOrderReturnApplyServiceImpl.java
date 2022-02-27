@@ -1,5 +1,7 @@
 package com.macro.mall.portal.service.impl;
 
+import com.macro.mall.mapper.OmsOrderReturnApplyMapper;
+import com.macro.mall.model.OmsOrderReturnApply;
 import com.macro.mall.portal.domain.OmsOrderReturnApplyParam;
 import com.macro.mall.portal.service.OmsPortalOrderReturnApplyService;
 import org.springframework.beans.BeanUtils;
