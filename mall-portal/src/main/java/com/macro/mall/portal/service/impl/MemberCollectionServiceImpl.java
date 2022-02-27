@@ -1,6 +1,5 @@
 package com.macro.mall.portal.service.impl;
 
-import com.macro.mall.model.UmsMember;
 import com.macro.mall.portal.domain.MemberProductCollection;
 import com.macro.mall.portal.repository.MemberProductCollectionRepository;
 import com.macro.mall.portal.service.MemberCollectionService;
@@ -10,8 +9,6 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
-
-import java.util.List;
 
 /**
  * 会员收藏Service实现类

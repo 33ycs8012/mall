@@ -1,6 +1,5 @@
 package com.macro.mall.config;
 
-import com.macro.mall.model.UmsResource;
 import com.macro.mall.security.component.DynamicSecurityService;
 import com.macro.mall.security.config.SecurityConfig;
 import com.macro.mall.service.UmsAdminService;

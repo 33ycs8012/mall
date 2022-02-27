@@ -2,8 +2,6 @@ package com.macro.mall.portal.controller;
 
 import com.macro.mall.common.api.CommonPage;
 import com.macro.mall.common.api.CommonResult;
-import com.macro.mall.model.PmsBrand;
-import com.macro.mall.model.PmsProduct;
 import com.macro.mall.portal.service.PortalBrandService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;

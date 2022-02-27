@@ -2,9 +2,6 @@ package com.macro.mall.service.impl;
 
 import cn.hutool.core.util.StrUtil;
 import com.github.pagehelper.PageHelper;
-import com.macro.mall.mapper.UmsResourceMapper;
-import com.macro.mall.model.UmsResource;
-import com.macro.mall.model.UmsResourceExample;
 import com.macro.mall.service.UmsAdminCacheService;
 import com.macro.mall.service.UmsResourceService;
 import org.springframework.beans.factory.annotation.Autowired;

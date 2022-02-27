@@ -2,9 +2,6 @@ package com.macro.mall.service.impl;
 
 import com.github.pagehelper.PageHelper;
 import com.macro.mall.dao.UmsRoleDao;
-import com.macro.mall.mapper.UmsRoleMapper;
-import com.macro.mall.mapper.UmsRoleMenuRelationMapper;
-import com.macro.mall.mapper.UmsRoleResourceRelationMapper;
 import com.macro.mall.model.*;
 import com.macro.mall.service.UmsAdminCacheService;
 import com.macro.mall.service.UmsRoleService;

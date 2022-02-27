@@ -1,9 +1,6 @@
 package com.macro.mall.dto;
 
-import com.macro.mall.model.PmsProductAttribute;
-import com.macro.mall.model.PmsProductAttributeCategory;
 import io.swagger.annotations.ApiModelProperty;
-import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
 

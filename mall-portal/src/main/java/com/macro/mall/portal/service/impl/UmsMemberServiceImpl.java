@@ -1,12 +1,6 @@
 package com.macro.mall.portal.service.impl;
 
 import com.macro.mall.common.exception.Asserts;
-import com.macro.mall.mapper.UmsMemberLevelMapper;
-import com.macro.mall.mapper.UmsMemberMapper;
-import com.macro.mall.model.UmsMember;
-import com.macro.mall.model.UmsMemberExample;
-import com.macro.mall.model.UmsMemberLevel;
-import com.macro.mall.model.UmsMemberLevelExample;
 import com.macro.mall.portal.domain.MemberDetails;
 import com.macro.mall.portal.service.UmsMemberCacheService;
 import com.macro.mall.portal.service.UmsMemberService;
